@@ -17,6 +17,7 @@ body {
 
 .navbar {
     box-shadow: var(--box-shadow);
+    opacity: .98;
 }
 
 .navbar-nav .nav-link {
